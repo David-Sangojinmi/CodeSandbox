@@ -9,6 +9,9 @@ export default class InputHandler {
 				case 39:
 					paddle.moveRight();
 					break;
+
+				default:
+					break;
 			}
 		});
 
@@ -24,6 +27,9 @@ export default class InputHandler {
 					if (paddle.speed > 0) {
 						paddle.stop();
 					}
+					break;
+
+				default:
 					break;
 			}
 		});
