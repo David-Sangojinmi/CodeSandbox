@@ -1,7 +1,7 @@
 {
-  "name": "testing-js-game-dev",
+  "name": "basic-js-game-dev",
   "version": "1.0.0",
-  "description": "Using code from this tutorial: https://www.youtube.com/watch?v=3EMxBkqC4z0",
+  "description": "The code from following along with this tutorial: https://www.youtube.com/watch?v=3EMxBkqC4z0",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
